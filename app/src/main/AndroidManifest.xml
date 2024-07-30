@@ -13,12 +13,6 @@
         android:theme="@style/Theme.SwipeableWithFramLayout"
         tools:targetApi="31">
         <activity
-            android:name=".RecyclerViewWithItemDecorator"
-            android:exported="true"
-            android:theme="@style/Theme.SwipeableWithFramLayout">
-
-        </activity>
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

@@ -1,23 +1,12 @@
 package com.minthanhtike.swipeablewithframlayout
 
-import android.annotation.SuppressLint
-import android.graphics.Color
 import android.os.Bundle
 import android.util.Log
-import android.view.LayoutInflater
-import android.view.ViewGroup
-import android.widget.FrameLayout
-import android.widget.ImageView
-import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.cardview.widget.CardView
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import androidx.recyclerview.widget.RecyclerView
 import com.minthanhtike.swipeablewithframlayout.databinding.ActivityMainBinding
-import com.minthanhtike.swipeablewithframlayout.databinding.ItemBinding
-import java.util.Random
 import kotlin.math.abs
 
 
